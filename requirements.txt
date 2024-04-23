@@ -1,0 +1,7 @@
+streamlit
+psycopg2-binary
+psycopg
+pandas
+SQLAlchemy
+pyodbc==5.1.0
+openpyxl
